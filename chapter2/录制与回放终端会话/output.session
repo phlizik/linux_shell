@@ -1,0 +1,42 @@
+脚本启动于 2014年04月11日 星期五 17时04分27秒
+]0;burness@burness-LV: ~/linux_shell/chapter2/录制与回放终端会话burness@burness-LV:~/linux_shell/chapter2/录制与回放终端会话$ asd[K[K[Kls
+output.session  timing.log
+]0;burness@burness-LV: ~/linux_shell/chapter2/录制与回放终端会话burness@burness-LV:~/linux_shell/chapter2/录制与回放终端会话$ cd[K[Kpwd
+/home/burness/linux_shell/chapter2/录制与回放终端会话
+]0;burness@burness-LV: ~/linux_shell/chapter2/录制与回放终端会话burness@burness-LV:~/linux_shell/chapter2/录制与回放终端会话$ git
+usage: git [--version] [--help] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p|--paginate|--no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+最常用的 git 命令有：
+   add        添加文件内容至索引
+   bisect     通过二分查找定位引入 bug 的变更
+   branch     列出、创建或删除分支
+   checkout   检出一个分支或路径到工作区
+   clone      克隆一个版本库到一个新目录
+   commit     记录变更到版本库
+   diff       显示提交之间、提交和工作区之间等的差异
+   fetch      从另外一个版本库下载对象和引用
+   grep       输出和模式匹配的行
+   init       Create an empty Git repository or reinitialize an existing one
+   log        显示提交日志
+   merge      合并两个或更多开发历史
+   mv         移动或重命名一个文件、目录或符号链接
+   pull       获取并合并另外的版本库或一个本地分支
+   push       更新远程引用和相关的对象
+   rebase     本地提交转移至更新后的上游分支中
+   reset      重置当前HEAD到指定状态
+   rm         从工作区和索引中删除文件
+   show       显示各种类型的对象
+   status     显示工作区状态
+   tag        创建、列出、删除或校验一个GPG签名的 tag 对象
+
+'git help -a' and 'git help -g' lists available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+]0;burness@burness-LV: ~/linux_shell/chapter2/录制与回放终端会话burness@burness-LV:~/linux_shell/chapter2/录制与回放终端会话$ git cl[K[K[K[K[K[Kexit
+exit
+
+Script done on 2014年04月11日 星期五 17时05分10秒
