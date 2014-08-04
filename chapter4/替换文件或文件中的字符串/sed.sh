@@ -1,0 +1,1 @@
+cat sed_data.txt | sed 's/\b[0-9]\{3\}\b/NUMBER/g'

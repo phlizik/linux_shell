@@ -35,6 +35,7 @@ ls
 
 # csplit is a improved implement based split
 cat burness.log
+
 # /[RE]/: match the lines {*} repeat until ends -s: don't print the information -n: the num length of suffix
 # -f specify the prefix name -b: specify the format of the suffix.
 # rm burness00.log because there is no contents in the first file
